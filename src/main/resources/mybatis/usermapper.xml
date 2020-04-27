@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapper nameSpace="zz.cjj.cn.domain.mapper.UserMapper">
+    <select id="select" resultType ="zz.cjj.cn.domain.pojo.User">
+        select * from hhh
+    </select>
+</mapper>

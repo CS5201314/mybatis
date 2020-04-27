@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <property name="driverClassName">com.mysql.jdbc.Driver</property>
+    <property name="url">jdbc:mysql://10.1.62.12:3306/uyun_udap?useUnicode=true&amp;characterEncoding=utf8</property>
+    <property name="username">zjj</property>
+    <property name="password">3u3UJ973mtwb5*9Q</property>
+</database>
